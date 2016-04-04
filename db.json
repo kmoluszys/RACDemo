@@ -1,0 +1,30 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "login": "test1",
+      "password": "test1"
+    },
+    {
+      "id": 2,
+      "login": "test2",
+      "password": "test2"
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "name": "Karol",
+      "surname": "Moluszys",
+      "hobby": "stuff"
+    },
+    {
+      "id": 1,
+      "user_id": 2,
+      "name": "Grzegorz",
+      "surname": "Sagadyn",
+      "hobby": "other stuff"
+    }
+  ]
+}
